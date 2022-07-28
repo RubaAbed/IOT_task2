@@ -1,4 +1,4 @@
-# IOT_task2IOT
+# IOT_task2
 ## Task2 : Programming a web page to control the arm and write the Arduino code for the control
 
 
